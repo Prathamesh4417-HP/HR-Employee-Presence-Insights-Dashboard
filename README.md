@@ -28,7 +28,7 @@ This project is ideal for:
 The dashboard was built using:
 
 - 📊 **Power BI Desktop** – Data visualization and report development  
-- 📂 **Power Query** – Data cleaning and transformation  
+- 📂 **Power Query** – Data cleaning and transformation, And Custom Fuctioning for Reusability 
 - 🧠 **DAX (Data Analysis Expressions)** – KPI calculations and attendance logic  
 - 🗂️ **Data Modeling** – Optimized employee-date model  
 - 📁 **File Formats**
