@@ -156,7 +156,7 @@ To deliver an **interactive HR analytics dashboard** that:
 
 ## 🖼️ Dashboard Preview
 
-![Employee Presence Dashboard](screenshots/employee_presence_dashboard.png)
+![Employee Presence Dashboard](https://github.com/Prathamesh4417-HP/HR-Employee-Presence-Insights-Dashboard/blob/master/Snapshot_HR_Analytics.png)
 
 > *Alt text: Power BI HR dashboard displaying employee presence KPIs, weekday analysis, attendance trends, and employee-level attendance table.*
 
